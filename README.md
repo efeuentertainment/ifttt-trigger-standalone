@@ -1,5 +1,7 @@
 # ifttt-trigger-standalone
-standalone node script for triggering an ifttt event.
+lightly modified example from https://github.com/jeroentvb/ifttt-webhooks-channel
+
+node script for triggering an ifttt event.
 
 1) npm install ifttt-webhooks-channel dotenv
 
